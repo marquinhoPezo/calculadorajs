@@ -18,7 +18,8 @@ td{
 }
 
 #tr1 .td1 input{
-	padding: 5px 75px 5px 0px;
+	padding: 5px 5px 5px 0px;
+	text-align: right;
 	
 
 }
